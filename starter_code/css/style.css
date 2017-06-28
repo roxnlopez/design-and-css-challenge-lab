@@ -139,19 +139,23 @@ nav {
   font-weight: 800;
   font-size: 24px;
   color: white;
+  padding-bottom: 2em;
 }
 
  .benefits {
-  background-color: dark blue;
+  background-color: white;
   font-size: 20px;
   font-weight: 600;
   color: darkblue;
   padding: 5em;
+  padding-top: 2em;
+  padding-bottom: 2em;
  }
 
  .quote {
   font-weight: 600;
   font-size: 18px;
+  font-style: italic;
   color: lightgrey;
   background: url("../images/testimonial_bg.jpg"); 
   text-align: center;
@@ -167,19 +171,22 @@ nav {
 
  .b1 {
   font-weight: 800;
-  font-size: 14px;
+  font-size: 17px;
   border-radius: 5px;
   background-color: yellow;
   color: black;
+  margin: 2em;
+
  }
 
  .list {
   font-weight: 300;
   font-size: 13px;
-  color: light grey;
+  color: grey;
   margin: 20px;
   padding: 10px;
   list-style: circle;
+  padding-bottom: 2em;
  }
 
 .b2 {
